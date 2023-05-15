@@ -1,3 +1,3 @@
-final url = 'http://192.168.1.6:3000/';
+final url = 'https://ed-tech-server-zxsu.onrender.com/';
 final registration = url + "registration";
 final login = url + 'login';
