@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:leaning_app/pages/plan.dart';
 import 'package:leaning_app/pages/splash.dart';
 
 import 'package:sizer/sizer.dart';

@@ -61,8 +61,6 @@ class _LoginPageState extends State<LoginPage> {
        }else{
         print("Something went wrong");
        }
-
-
         }
   }
   @override
